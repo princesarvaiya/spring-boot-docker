@@ -11,7 +11,7 @@ public class Application {
 
     @RequestMapping("/")
     public String home() {
-        return "<h1>Welcome to MSP OpenShift Offering</h1>"
+        return "<h1>Welcome to HPE MSP OpenShift Offering</h1>"
                 + "<p>MSP OpenShift offers a scalable and secure container platform for deploying, managing, and scaling applications.</p>"
                 + "<p>With MSP OpenShift, you can easily deploy your applications using containerized environments, enabling faster development cycles and smoother deployments.</p>"
                 + "<h2>Key Features:</h2>"
